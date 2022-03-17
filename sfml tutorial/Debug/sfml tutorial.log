@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Family PC\source\repos\sfml tutorial\sfml tutorial\main.cpp(18,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Family PC\source\repos\sfml tutorial\sfml tutorial\main.cpp(18,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Family PC\source\repos\sfml tutorial\sfml tutorial\main.cpp(312,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Family PC\source\repos\sfml tutorial\sfml tutorial\main.cpp(312,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  sfml tutorial.vcxproj -> C:\Users\Family PC\source\repos\sfml tutorial\Debug\sfml tutorial.exe
